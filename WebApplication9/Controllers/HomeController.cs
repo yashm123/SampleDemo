@@ -26,5 +26,10 @@ namespace WebApplication9.Controllers
 
             return View();
         }
+        public ActionResult Contact1()
+        {
+            return View();
+        }
+        
     }
 }
